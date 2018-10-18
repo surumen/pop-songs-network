@@ -1,4 +1,4 @@
-h1. Demo for How to build an Interactive Network Visualization
+h1. Interactive Network Visualization
 
 h2. Running
 
