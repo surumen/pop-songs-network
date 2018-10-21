@@ -9,7 +9,7 @@ bundle install
 python -m SimpleHTTTPServer -p 3000
 ```
 
-Now go to "http://0.0.0.0:3000":http://0.0.0.0:3000/
+Go to  http://0.0.0.0:3000/
 
 ### Song Data
 
