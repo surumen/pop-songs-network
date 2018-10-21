@@ -1,24 +1,30 @@
+/* Author: Moses Surumen
+*/
+
 function Tooltip(tooltipId, width){
+
+  //tooltip ID
   var tooltipId = tooltipId;
   $("body").append("<div class='tooltip' id='"+tooltipId+"'></div>");
 
   if(width){
     $("#"+tooltipId).css("width", width);
   }
-
   hideTooltip();
 
+  //show tooltip
   function showTooltip(content, event) {
     $("#"+tooltipId).html(content);
     $("#"+tooltipId).show();
-
     updatePosition(event);
   }
 
+  //hide tooltip
   function hideTooltip(){
     $("#"+tooltipId).hide();
   }
 
+  //update position
   function updatePosition(event){
     var ttid = "#"+tooltipId;
     var xOffset = 20;
