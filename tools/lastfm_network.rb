@@ -4,8 +4,8 @@
 require 'lastfm'
 require 'json'
 
-api_key = "YOUR_API_KEY"
-api_secret = "YOUR_SECRET_KEY"
+api_key = "15fea97279fab57f688d80a0e58585cb"
+api_secret = "f300af20736de425908ec0b5f16abb2d"
 
 @lastfm = Lastfm.new(api_key, api_secret)
 
@@ -138,19 +138,14 @@ def grab(root, output_filename)
 end
 
 roots = [
-  # {"name" => "You Can Call Me Al", "artist" => "Paul Simon", "filename" => "call_me_al.json"},
-  # {"name" => "Walken", "artist"  => "Wilco", "filename" => "walken.json"},
-  # {"name" => "Sledgehammer", "artist"  => "Peter Gabriel", "filename" => "sledgehammer_2_rounds.json"},
+  # {"name" => "Halo", "artist" => "Beyoncé", "filename" => "halo.json"},
+  # {"name" => "Thriller", "artist"  => "Michael Jackson", "filename" => "thriller.json"},
+  # {"name" => "Hotline Bling", "artist"  => "Drake", "filename" => "hotline_bling.json"},
   # {"name" => "Ladies Night", "artist"  => "Kool and the gang", "filename" => "ladies_night.json"},
-  #{"name" => "Poker Face", "artist"  => "Lady GaGa", "filename" => "poker_face.json"},
-  # {"name" => "New Slang", "artist" => "Shins", "filename" => "new_slang.json"},
-  # {"name" => "Jolene", "artist" => "Dolly Parton", "filename" => "jolene_2_rounds.json"},
-  # {"name" => "January Wedding", "artist" => "Avett Brothers", "filename" => "january_wedding.json"},
-  # {"name" => "January Wedding", "artist" => "Avett Brothers", "filename" => "january_wedding.json"},
-  # {"name" => "She Said She Said", "artist" => "The Beatles", "filename" => "she_said.json"},
-  # {"name" => "Short Skirt Long Jacket", "artist" => "Cake", "filename" => "short_skirt.json"},
-  # {"name" => "Good Vibrations", "artist" => "Beach Boys", "filename" => "good_vibrations.json"},
-  {"name" => "helplessness blues", "artist" => "Fleet Foxes", "filename" => "helplessness_blues.json"},
+  # {"name" => "I Will Always Love You", "artist"  => "Whitney Houston", "filename" => "i_will_always_love_you.json"},
+  # {"name" => "Despacito", "artist" => "Luis Fonsi", "filename" => "despacito.json"},
+  # {"name" => "Apologize", "artist" => "Timbaland", "filename" => "apologize.json"},
+  {"name" => "Respect", "artist" => "Aretha Franklin", "filename" => "respect.json"},
 ]
 
 roots.each do |root|

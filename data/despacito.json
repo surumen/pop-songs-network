@@ -1,0 +1,1469 @@
+{
+  "nodes": [
+    {
+      "match": 0.906,
+      "name": "1, 2, 3 (feat. Jason Derulo  De La Ghetto)",
+      "artist": "Sofia Reyes",
+      "id": "1_2_3_feat_jason_derulo_de_la_ghetto_sofia_reyes",
+      "playcount": 16687
+    },
+    {
+      "match": 0.852,
+      "name": "Subeme La Radio",
+      "artist": "Enrique Iglesias",
+      "id": "subeme_la_radio_enrique_iglesias",
+      "playcount": 354046
+    },
+    {
+      "match": 0.843,
+      "name": "Bailando",
+      "artist": "Enrique Iglesias",
+      "id": "bailando_enrique_iglesias",
+      "playcount": 306228
+    },
+    {
+      "match": 0.823,
+      "name": "X",
+      "artist": "Nicky Jam",
+      "id": "x_nicky_jam",
+      "playcount": 421269
+    },
+    {
+      "match": 0.794,
+      "name": "Me Niego",
+      "artist": "Reik",
+      "id": "me_niego_reik",
+      "playcount": 132958
+    },
+    {
+      "match": 0.751,
+      "name": "Chantaje",
+      "artist": "Shakira",
+      "id": "chantaje_shakira",
+      "playcount": 858962
+    },
+    {
+      "match": 0.7,
+      "name": "Hey DJ",
+      "artist": "CNCO",
+      "id": "hey_dj_cnco",
+      "playcount": 140967
+    },
+    {
+      "match": 0.68,
+      "name": "Criminal",
+      "artist": "Natti Natasha",
+      "id": "criminal_natti_natasha",
+      "playcount": 237540
+    },
+    {
+      "match": 0.641,
+      "name": "Déjala Que Vuelva (feat. Manuel Turizo)",
+      "artist": "Piso 21",
+      "id": "djala_que_vuelva_feat_manuel_turizo_piso_21",
+      "playcount": 145116
+    },
+    {
+      "match": 0.546,
+      "name": "Te Amo",
+      "artist": "Piso 21",
+      "id": "te_amo_piso_21",
+      "playcount": 46327
+    },
+    {
+      "match": 0.537,
+      "name": "Me EnaMOrÉ",
+      "artist": "Shakira",
+      "id": "me_enamor_shakira",
+      "playcount": 436026
+    },
+    {
+      "match": 0.534,
+      "name": "Mayores",
+      "artist": "Becky G",
+      "id": "mayores_becky_g",
+      "playcount": 392085
+    },
+    {
+      "match": 0.522,
+      "name": "El Amante",
+      "artist": "Nicky Jam",
+      "id": "el_amante_nicky_jam",
+      "playcount": 201407
+    },
+    {
+      "match": 0.917,
+      "name": "Quien Te Quiere Como Yo",
+      "artist": "Carlos Baute",
+      "id": "quien_te_quiere_como_yo_carlos_baute",
+      "playcount": 45405
+    },
+    {
+      "match": 0.912,
+      "name": "Cuando Tus Ojos Me Miran",
+      "artist": "Franco De Vita",
+      "id": "cuando_tus_ojos_me_miran_franco_de_vita",
+      "playcount": 17991
+    },
+    {
+      "match": 0.892,
+      "name": "La Camisa Negra",
+      "artist": "Juanes",
+      "id": "la_camisa_negra_juanes",
+      "playcount": 1402919
+    },
+    {
+      "match": 0.875,
+      "name": "Inevitable",
+      "artist": "Dulce María",
+      "id": "inevitable_dulce_mara",
+      "playcount": 1400306
+    },
+    {
+      "match": 0.847,
+      "name": "Dímelo",
+      "artist": "Enrique Iglesias",
+      "id": "dmelo_enrique_iglesias",
+      "playcount": 86696
+    },
+    {
+      "match": 0.782,
+      "name": "Mi Princesa",
+      "artist": "David Bisbal",
+      "id": "mi_princesa_david_bisbal",
+      "playcount": 58352
+    },
+    {
+      "match": 0.709,
+      "name": "De Mi",
+      "artist": "Camila",
+      "id": "de_mi_camila",
+      "playcount": 56588
+    },
+    {
+      "match": 0.704,
+      "name": "Te regalo",
+      "artist": "Carlos Baute",
+      "id": "te_regalo_carlos_baute",
+      "playcount": 81406
+    },
+    {
+      "match": 0.695,
+      "name": "Fotografía",
+      "artist": "Juanes",
+      "id": "fotografa_juanes",
+      "playcount": 86935
+    },
+    {
+      "match": 0.695,
+      "name": "Mi Nuevo Vicio",
+      "artist": "Paulina Rubio",
+      "id": "mi_nuevo_vicio_paulina_rubio",
+      "playcount": 80248
+    },
+    {
+      "match": 0.661,
+      "name": "Sabes",
+      "artist": "Reik",
+      "id": "sabes_reik",
+      "playcount": 201348
+    },
+    {
+      "match": 0.661,
+      "name": "Alejate de Mi",
+      "artist": "Camila",
+      "id": "alejate_de_mi_camila",
+      "playcount": 147291
+    },
+    {
+      "match": 0.644,
+      "name": "Manos al Aire",
+      "artist": "Nelly Furtado",
+      "id": "manos_al_aire_nelly_furtado",
+      "playcount": 751793
+    },
+    {
+      "match": 0.943,
+      "name": "Sin Pijama",
+      "artist": "Becky G",
+      "id": "sin_pijama_becky_g",
+      "playcount": 317422
+    },
+    {
+      "match": 0.925,
+      "name": "Te Boté",
+      "artist": "Nio Garcia",
+      "id": "te_bot_nio_garcia",
+      "playcount": 7505
+    },
+    {
+      "match": 0.901,
+      "name": "Mi Gente",
+      "artist": "J Balvin",
+      "id": "mi_gente_j_balvin",
+      "playcount": 905802
+    },
+    {
+      "match": 0.806,
+      "name": "Downtown",
+      "artist": "Anitta",
+      "id": "downtown_anitta",
+      "playcount": 2097461
+    },
+    {
+      "match": 0.802,
+      "name": "Clandestino",
+      "artist": "Shakira",
+      "id": "clandestino_shakira",
+      "playcount": 189368
+    },
+    {
+      "match": 0.707,
+      "name": "Ambiente",
+      "artist": "J Balvin",
+      "id": "ambiente_j_balvin",
+      "playcount": 102892
+    },
+    {
+      "match": 0.7,
+      "name": "El Préstamo",
+      "artist": "Maluma",
+      "id": "el_prstamo_maluma",
+      "playcount": 110870
+    },
+    {
+      "match": 0.656,
+      "name": "Corazón",
+      "artist": "Maluma",
+      "id": "corazn_maluma",
+      "playcount": 191758
+    },
+    {
+      "match": 0.644,
+      "name": "Mi Cama",
+      "artist": "Karol G",
+      "id": "mi_cama_karol_g",
+      "playcount": 96149
+    },
+    {
+      "match": 0.552,
+      "name": "Me Rehúso",
+      "artist": "Danny Ocean",
+      "id": "me_rehso_danny_ocean",
+      "playcount": 494823
+    },
+    {
+      "match": 0.546,
+      "name": "Calypso",
+      "artist": "Luis Fonsi",
+      "id": "calypso_luis_fonsi",
+      "playcount": 59674
+    },
+    {
+      "match": 0.545,
+      "name": "Despacito",
+      "artist": "Luis Fonsi",
+      "id": "despacito_luis_fonsi",
+      "playcount": 552789
+    },
+    {
+      "match": 0.54,
+      "name": "Te Boté - Remix",
+      "artist": "Nio Garcia",
+      "id": "te_bot__remix_nio_garcia",
+      "playcount": 151278
+    },
+    {
+      "match": 0.866,
+      "name": "A Partir De Hoy",
+      "artist": "David Bisbal",
+      "id": "a_partir_de_hoy_david_bisbal",
+      "playcount": 33345
+    },
+    {
+      "match": 0.711,
+      "name": "Fiebre",
+      "artist": "Ricky Martin",
+      "id": "fiebre_ricky_martin",
+      "playcount": 39354
+    },
+    {
+      "match": 0.686,
+      "name": "El Baño",
+      "artist": "Enrique Iglesias",
+      "id": "el_bao_enrique_iglesias",
+      "playcount": 107612
+    },
+    {
+      "match": 0.583,
+      "name": "No Me Acuerdo",
+      "artist": "Thalía",
+      "id": "no_me_acuerdo_thala",
+      "playcount": 103507
+    },
+    {
+      "match": 0.533,
+      "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
+      "artist": "Sofia Reyes",
+      "id": "1_2_3_feat_jason_derulo__de_la_ghetto_sofia_reyes",
+      "playcount": 216396
+    },
+    {
+      "match": 0.504,
+      "name": "Loca (feat. Cali Y El Dandee)",
+      "artist": "Maite Perroni",
+      "id": "loca_feat_cali_y_el_dandee_maite_perroni",
+      "playcount": 143026
+    },
+    {
+      "match": 0.496,
+      "name": "DUELE EL CORAZON",
+      "artist": "Enrique Iglesias",
+      "id": "duele_el_corazon_enrique_iglesias",
+      "playcount": 548611
+    },
+    {
+      "match": 0.437,
+      "name": "Cuando Te Besé",
+      "artist": "Becky G",
+      "id": "cuando_te_bes_becky_g",
+      "playcount": 58405
+    },
+    {
+      "match": 0.422,
+      "name": "Pa Dentro",
+      "artist": "Juanes",
+      "id": "pa_dentro_juanes",
+      "playcount": 23736
+    },
+    {
+      "match": 0.326,
+      "name": "Amigos Con Derechos",
+      "artist": "Reik",
+      "id": "amigos_con_derechos_reik",
+      "playcount": 21580
+    },
+    {
+      "match": 0.267,
+      "name": "Por Hacerme el Bueno",
+      "artist": "Bacilos",
+      "id": "por_hacerme_el_bueno_bacilos",
+      "playcount": 11004
+    },
+    {
+      "match": 0.256,
+      "name": "Ya Me Enteré",
+      "artist": "Reik",
+      "id": "ya_me_enter_reik",
+      "playcount": 46405
+    },
+    {
+      "match": 0.253,
+      "name": "Ahora Te Puedes Marchar",
+      "artist": "Luis Miguel",
+      "id": "ahora_te_puedes_marchar_luis_miguel",
+      "playcount": 107423
+    },
+    {
+      "match": 0.775,
+      "name": "Felices Los 4",
+      "artist": "Maluma",
+      "id": "felices_los_4_maluma",
+      "playcount": 488283
+    },
+    {
+      "match": 0.679,
+      "name": "Échame La Culpa",
+      "artist": "Luis Fonsi",
+      "id": "chame_la_culpa_luis_fonsi",
+      "playcount": 632803
+    },
+    {
+      "match": 0.51,
+      "name": "Paradinha",
+      "artist": "Anitta",
+      "id": "paradinha_anitta",
+      "playcount": 1919977
+    },
+    {
+      "match": 0.443,
+      "name": "Ni Tú Ni Yo",
+      "artist": "Jennifer Lopez",
+      "id": "ni_t_ni_yo_jennifer_lopez",
+      "playcount": 121702
+    },
+    {
+      "match": 0.357,
+      "name": "Amor, Amor, Amor",
+      "artist": "Jennifer Lopez",
+      "id": "amor_amor_amor_jennifer_lopez",
+      "playcount": 69823
+    },
+    {
+      "match": 0.225,
+      "name": "...Ready For It?",
+      "artist": "Taylor Swift",
+      "id": "ready_for_it_taylor_swift",
+      "playcount": 1926217
+    },
+    {
+      "match": 0.209,
+      "name": "Gasolina",
+      "artist": "Daddy Yankee",
+      "id": "gasolina_daddy_yankee",
+      "playcount": 857837
+    },
+    {
+      "match": 0.188,
+      "name": "Desde Esa Noche",
+      "artist": "Thalía",
+      "id": "desde_esa_noche_thala",
+      "playcount": 135225
+    },
+    {
+      "match": 0.187,
+      "name": "Baldin de Gelo",
+      "artist": "Claudia Leitte",
+      "id": "baldin_de_gelo_claudia_leitte",
+      "playcount": 137288
+    },
+    {
+      "match": 0.172,
+      "name": "La Mordidita",
+      "artist": "Ricky Martin",
+      "id": "la_mordidita_ricky_martin",
+      "playcount": 129813
+    },
+    {
+      "match": 0.159,
+      "name": "Danza Kuduro",
+      "artist": "Don Omar",
+      "id": "danza_kuduro_don_omar",
+      "playcount": 1033840
+    },
+    {
+      "match": 0.13,
+      "name": "Como Antes",
+      "artist": "Yandel",
+      "id": "como_antes_yandel",
+      "playcount": 49308
+    },
+    {
+      "match": 0.123,
+      "name": "Encantadora",
+      "artist": "Yandel",
+      "id": "encantadora_yandel",
+      "playcount": 81328
+    },
+    {
+      "match": 0.91,
+      "name": "Mi Medicina",
+      "artist": "CNCO",
+      "id": "mi_medicina_cnco",
+      "playcount": 29031
+    },
+    {
+      "match": 0.532,
+      "name": "El Perdón",
+      "artist": "Nicky Jam",
+      "id": "el_perdn_nicky_jam",
+      "playcount": 667910
+    },
+    {
+      "match": 0.387,
+      "name": "Sigo Extrañándote",
+      "artist": "J Balvin",
+      "id": "sigo_extrandote_j_balvin",
+      "playcount": 137879
+    },
+    {
+      "match": 0.28,
+      "name": "Despacito (Featuring Daddy Yankee)",
+      "artist": "Luis Fonsi",
+      "id": "despacito_featuring_daddy_yankee_luis_fonsi",
+      "playcount": 549523
+    },
+    {
+      "match": 0.192,
+      "name": "Pineapple",
+      "artist": "Karol G",
+      "id": "pineapple_karol_g",
+      "playcount": 50007
+    },
+    {
+      "match": 0.158,
+      "name": "Medicina",
+      "artist": "Anitta",
+      "id": "medicina_anitta",
+      "playcount": 611630
+    },
+    {
+      "match": 0.145,
+      "name": "Andar Conmigo",
+      "artist": "Julieta Venegas",
+      "id": "andar_conmigo_julieta_venegas",
+      "playcount": 334695
+    },
+    {
+      "match": 0.133,
+      "name": "Es Tarde",
+      "artist": "Juanes",
+      "id": "es_tarde_juanes",
+      "playcount": 30562
+    },
+    {
+      "match": 0.104,
+      "name": "Amnesia",
+      "artist": "Anahí",
+      "id": "amnesia_anah",
+      "playcount": 173306
+    },
+    {
+      "match": 0.104,
+      "name": "A Ella",
+      "artist": "Karol G",
+      "id": "a_ella_karol_g",
+      "playcount": 26894
+    },
+    {
+      "match": 0.1,
+      "name": "Caraluna",
+      "artist": "Bacilos",
+      "id": "caraluna_bacilos",
+      "playcount": 336622
+    },
+    {
+      "match": 0.091,
+      "name": "Limbo",
+      "artist": "Daddy Yankee",
+      "id": "limbo_daddy_yankee",
+      "playcount": 375543
+    },
+    {
+      "match": 0.09,
+      "name": "Me Voy",
+      "artist": "Julieta Venegas",
+      "id": "me_voy_julieta_venegas",
+      "playcount": 534108
+    },
+    {
+      "match": 0.898,
+      "name": "Se Preparó",
+      "artist": "Ozuna",
+      "id": "se_prepar_ozuna",
+      "playcount": 158955
+    },
+    {
+      "match": 0.872,
+      "name": "Bonita",
+      "artist": "J Balvin",
+      "id": "bonita_j_balvin",
+      "playcount": 147226
+    },
+    {
+      "match": 0.604,
+      "name": "La Modelo",
+      "artist": "Ozuna",
+      "id": "la_modelo_ozuna",
+      "playcount": 75189
+    },
+    {
+      "match": 0.596,
+      "name": "Machika",
+      "artist": "J Balvin",
+      "id": "machika_j_balvin",
+      "playcount": 707092
+    },
+    {
+      "match": 0.588,
+      "name": "Duro y Suave",
+      "artist": "Leslie Grace",
+      "id": "duro_y_suave_leslie_grace",
+      "playcount": 61322
+    },
+    {
+      "match": 0.422,
+      "name": "El Clavo",
+      "artist": "Prince Royce",
+      "id": "el_clavo_prince_royce",
+      "playcount": 39594
+    },
+    {
+      "match": 0.386,
+      "name": "Reggaetón lento (Bailemos)",
+      "artist": "CNCO",
+      "id": "reggaetn_lento_bailemos_cnco",
+      "playcount": 289068
+    },
+    {
+      "match": 0.237,
+      "name": "Pem Pem",
+      "artist": "Elettra Lamborghini",
+      "id": "pem_pem_elettra_lamborghini",
+      "playcount": 55313
+    },
+    {
+      "match": 0.214,
+      "name": "Todo Comienza en la Disco",
+      "artist": "Wisin",
+      "id": "todo_comienza_en_la_disco_wisin",
+      "playcount": 27382
+    },
+    {
+      "match": 0.165,
+      "name": "Díganle",
+      "artist": "Leslie Grace",
+      "id": "dganle_leslie_grace",
+      "playcount": 25653
+    },
+    {
+      "match": 0.151,
+      "name": "Explícale",
+      "artist": "Yandel",
+      "id": "explcale_yandel",
+      "playcount": 47241
+    },
+    {
+      "match": 0.088,
+      "name": "Vacaciones",
+      "artist": "Wisin",
+      "id": "vacaciones_wisin",
+      "playcount": 93542
+    },
+    {
+      "match": 0.074,
+      "name": "Si No Vuelves",
+      "artist": "Gente de Zona",
+      "id": "si_no_vuelves_gente_de_zona",
+      "playcount": 33020
+    },
+    {
+      "match": 0.961,
+      "name": "La Vida Sin Ti",
+      "artist": "Piso 21",
+      "id": "la_vida_sin_ti_piso_21",
+      "playcount": 38548
+    },
+    {
+      "match": 0.928,
+      "name": "SUTRA",
+      "artist": "Sebastian Yatra",
+      "id": "sutra_sebastian_yatra",
+      "playcount": 73299
+    },
+    {
+      "match": 0.866,
+      "name": "Suena El Dembow",
+      "artist": "Joey Montana",
+      "id": "suena_el_dembow_joey_montana",
+      "playcount": 80354
+    },
+    {
+      "match": 0.865,
+      "name": "Por Perro",
+      "artist": "Sebastian Yatra",
+      "id": "por_perro_sebastian_yatra",
+      "playcount": 59671
+    },
+    {
+      "match": 0.489,
+      "name": "La Player (Bandolera)",
+      "artist": "Zion & Lennox",
+      "id": "la_player_bandolera_zion__lennox",
+      "playcount": 73115
+    },
+    {
+      "match": 0.318,
+      "name": "Dura - Remix",
+      "artist": "Daddy Yankee",
+      "id": "dura__remix_daddy_yankee",
+      "playcount": 68416
+    },
+    {
+      "match": 0.263,
+      "name": "MOVE TO MIAMI",
+      "artist": "Enrique Iglesias",
+      "id": "move_to_miami_enrique_iglesias",
+      "playcount": 55034
+    },
+    {
+      "match": 0.244,
+      "name": "Atrévete-te-te",
+      "artist": "Calle 13",
+      "id": "atrvetetete_calle_13",
+      "playcount": 85798
+    },
+    {
+      "match": 0.205,
+      "name": "Escápate Conmigo (feat. Ozuna)",
+      "artist": "Wisin",
+      "id": "escpate_conmigo_feat_ozuna_wisin",
+      "playcount": 23416
+    },
+    {
+      "match": 0.2,
+      "name": "Te Quiero Pa´Mi",
+      "artist": "Don Omar",
+      "id": "te_quiero_pami_don_omar",
+      "playcount": 70819
+    },
+    {
+      "match": 0.192,
+      "name": "Obsesion",
+      "artist": "Aventura",
+      "id": "obsesion_aventura",
+      "playcount": 359082
+    },
+    {
+      "match": 0.171,
+      "name": "La Formula (feat. Chris Jeday)",
+      "artist": "De La Ghetto",
+      "id": "la_formula_feat_chris_jeday_de_la_ghetto",
+      "playcount": 27795
+    },
+    {
+      "match": 0.168,
+      "name": "Mala",
+      "artist": "Reykon",
+      "id": "mala_reykon",
+      "playcount": 10032
+    },
+    {
+      "match": 0.789,
+      "name": "No Hay Nadie Más",
+      "artist": "Sebastian Yatra",
+      "id": "no_hay_nadie_ms_sebastian_yatra",
+      "playcount": 49174
+    },
+    {
+      "match": 0.172,
+      "name": "Zum Zum",
+      "artist": "Daddy Yankee",
+      "id": "zum_zum_daddy_yankee",
+      "playcount": 22412
+    },
+    {
+      "match": 0.151,
+      "name": "Por Pura Curiosidad",
+      "artist": "Fonseca",
+      "id": "por_pura_curiosidad_fonseca",
+      "playcount": 16250
+    },
+    {
+      "match": 0.133,
+      "name": "Bella y Sensual",
+      "artist": "Romeo Santos",
+      "id": "bella_y_sensual_romeo_santos",
+      "playcount": 74270
+    },
+    {
+      "match": 0.129,
+      "name": "Un Poquito",
+      "artist": "Diego Torres",
+      "id": "un_poquito_diego_torres",
+      "playcount": 4058
+    },
+    {
+      "match": 0.127,
+      "name": "Reggaeton Ton",
+      "artist": "Alexis y Fido",
+      "id": "reggaeton_ton_alexis_y_fido",
+      "playcount": 5594
+    },
+    {
+      "match": 0.123,
+      "name": "Usted",
+      "artist": "Juan Magán",
+      "id": "usted_juan_magn",
+      "playcount": 26421
+    },
+    {
+      "match": 0.103,
+      "name": "La Rompe Corazones",
+      "artist": "Daddy Yankee",
+      "id": "la_rompe_corazones_daddy_yankee",
+      "playcount": 103685
+    },
+    {
+      "match": 0.102,
+      "name": "Le Encanta",
+      "artist": "Juan Magán",
+      "id": "le_encanta_juan_magn",
+      "playcount": 20448
+    },
+    {
+      "match": 0.095,
+      "name": "Desde Lejos",
+      "artist": "Santiago Cruz",
+      "id": "desde_lejos_santiago_cruz",
+      "playcount": 17104
+    },
+    {
+      "match": 0.094,
+      "name": "Que Lloro",
+      "artist": "Sin Bandera",
+      "id": "que_lloro_sin_bandera",
+      "playcount": 230083
+    },
+    {
+      "match": 0.09,
+      "name": "Monalisa",
+      "artist": "Alkilados",
+      "id": "monalisa_alkilados",
+      "playcount": 18194
+    },
+    {
+      "match": 0.086,
+      "name": "Picky",
+      "artist": "Joey Montana",
+      "id": "picky_joey_montana",
+      "playcount": 137331
+    },
+    {
+      "match": 0.281,
+      "name": "Por Favor",
+      "artist": "Pitbull",
+      "id": "por_favor_pitbull",
+      "playcount": 110456
+    },
+    {
+      "match": 0.117,
+      "name": "Mulher Gato",
+      "artist": "Wanessa",
+      "id": "mulher_gato_wanessa",
+      "playcount": 59391
+    },
+    {
+      "match": 0.074,
+      "name": "I Know You Want Me (Calle Ocho)",
+      "artist": "Pitbull",
+      "id": "i_know_you_want_me_calle_ocho_pitbull",
+      "playcount": 1156435
+    },
+    {
+      "match": 0.218,
+      "name": "Andas En Mi Cabeza",
+      "artist": "Chino & Nacho",
+      "id": "andas_en_mi_cabeza_chino__nacho",
+      "playcount": 122234
+    },
+    {
+      "match": 0.201,
+      "name": "Tranquila",
+      "artist": "J Balvin",
+      "id": "tranquila_j_balvin",
+      "playcount": 120457
+    },
+    {
+      "match": 0.197,
+      "name": "A Dios Le Pido",
+      "artist": "Juanes",
+      "id": "a_dios_le_pido_juanes",
+      "playcount": 642043
+    },
+    {
+      "match": 0.146,
+      "name": "CON ELLA",
+      "artist": "Cristian Castro",
+      "id": "con_ella_cristian_castro",
+      "playcount": 5777
+    },
+    {
+      "match": 0.145,
+      "name": "Vuélveme A Querer",
+      "artist": "Cristian Castro",
+      "id": "vulveme_a_querer_cristian_castro",
+      "playcount": 8886
+    },
+    {
+      "match": 0.145,
+      "name": "Candy",
+      "artist": "Plan B",
+      "id": "candy_plan_b",
+      "playcount": 80135
+    },
+    {
+      "match": 0.145,
+      "name": "Te Mando Flores",
+      "artist": "Fonseca",
+      "id": "te_mando_flores_fonseca",
+      "playcount": 189669
+    },
+    {
+      "match": 0.138,
+      "name": "Ilusion (Unplugged) (En Vivo)",
+      "artist": "Julieta Venegas",
+      "id": "ilusion_unplugged_en_vivo_julieta_venegas",
+      "playcount": 45675
+    },
+    {
+      "match": 0.13,
+      "name": "Bonita",
+      "artist": "Cabas",
+      "id": "bonita_cabas",
+      "playcount": 79911
+    },
+    {
+      "match": 0.13,
+      "name": "Dutty Love",
+      "artist": "Don Omar",
+      "id": "dutty_love_don_omar",
+      "playcount": 112005
+    },
+    {
+      "match": 0.128,
+      "name": "Valió la Pena",
+      "artist": "Marc Anthony",
+      "id": "vali_la_pena_marc_anthony",
+      "playcount": 24427
+    },
+    {
+      "match": 0.127,
+      "name": "Vuelve",
+      "artist": "Ricky Martin",
+      "id": "vuelve_ricky_martin",
+      "playcount": 141986
+    },
+    {
+      "match": 0.126,
+      "name": "No Te Quiero Nada",
+      "artist": "HA-ASH",
+      "id": "no_te_quiero_nada_haash",
+      "playcount": 67060
+    }
+  ],
+  "links": [
+    {
+      "source": "despacito_luis_fonsi",
+      "target": "1_2_3_feat_jason_derulo_de_la_ghetto_sofia_reyes"
+    },
+    {
+      "source": "despacito_luis_fonsi",
+      "target": "subeme_la_radio_enrique_iglesias"
+    },
+    {
+      "source": "despacito_luis_fonsi",
+      "target": "bailando_enrique_iglesias"
+    },
+    {
+      "source": "despacito_luis_fonsi",
+      "target": "x_nicky_jam"
+    },
+    {
+      "source": "despacito_luis_fonsi",
+      "target": "me_niego_reik"
+    },
+    {
+      "source": "despacito_luis_fonsi",
+      "target": "chantaje_shakira"
+    },
+    {
+      "source": "despacito_luis_fonsi",
+      "target": "hey_dj_cnco"
+    },
+    {
+      "source": "despacito_luis_fonsi",
+      "target": "criminal_natti_natasha"
+    },
+    {
+      "source": "despacito_luis_fonsi",
+      "target": "djala_que_vuelva_feat_manuel_turizo_piso_21"
+    },
+    {
+      "source": "despacito_luis_fonsi",
+      "target": "te_amo_piso_21"
+    },
+    {
+      "source": "despacito_luis_fonsi",
+      "target": "me_enamor_shakira"
+    },
+    {
+      "source": "despacito_luis_fonsi",
+      "target": "mayores_becky_g"
+    },
+    {
+      "source": "despacito_luis_fonsi",
+      "target": "el_amante_nicky_jam"
+    },
+    {
+      "source": "bailando_enrique_iglesias",
+      "target": "quien_te_quiere_como_yo_carlos_baute"
+    },
+    {
+      "source": "bailando_enrique_iglesias",
+      "target": "cuando_tus_ojos_me_miran_franco_de_vita"
+    },
+    {
+      "source": "bailando_enrique_iglesias",
+      "target": "la_camisa_negra_juanes"
+    },
+    {
+      "source": "bailando_enrique_iglesias",
+      "target": "inevitable_dulce_mara"
+    },
+    {
+      "source": "bailando_enrique_iglesias",
+      "target": "dmelo_enrique_iglesias"
+    },
+    {
+      "source": "bailando_enrique_iglesias",
+      "target": "mi_princesa_david_bisbal"
+    },
+    {
+      "source": "bailando_enrique_iglesias",
+      "target": "de_mi_camila"
+    },
+    {
+      "source": "bailando_enrique_iglesias",
+      "target": "te_regalo_carlos_baute"
+    },
+    {
+      "source": "bailando_enrique_iglesias",
+      "target": "fotografa_juanes"
+    },
+    {
+      "source": "bailando_enrique_iglesias",
+      "target": "mi_nuevo_vicio_paulina_rubio"
+    },
+    {
+      "source": "bailando_enrique_iglesias",
+      "target": "sabes_reik"
+    },
+    {
+      "source": "bailando_enrique_iglesias",
+      "target": "alejate_de_mi_camila"
+    },
+    {
+      "source": "bailando_enrique_iglesias",
+      "target": "manos_al_aire_nelly_furtado"
+    },
+    {
+      "source": "x_nicky_jam",
+      "target": "sin_pijama_becky_g"
+    },
+    {
+      "source": "x_nicky_jam",
+      "target": "te_bot_nio_garcia"
+    },
+    {
+      "source": "x_nicky_jam",
+      "target": "mi_gente_j_balvin"
+    },
+    {
+      "source": "x_nicky_jam",
+      "target": "downtown_anitta"
+    },
+    {
+      "source": "x_nicky_jam",
+      "target": "clandestino_shakira"
+    },
+    {
+      "source": "x_nicky_jam",
+      "target": "ambiente_j_balvin"
+    },
+    {
+      "source": "x_nicky_jam",
+      "target": "el_prstamo_maluma"
+    },
+    {
+      "source": "x_nicky_jam",
+      "target": "corazn_maluma"
+    },
+    {
+      "source": "x_nicky_jam",
+      "target": "mi_cama_karol_g"
+    },
+    {
+      "source": "x_nicky_jam",
+      "target": "me_rehso_danny_ocean"
+    },
+    {
+      "source": "x_nicky_jam",
+      "target": "calypso_luis_fonsi"
+    },
+    {
+      "source": "x_nicky_jam",
+      "target": "despacito_luis_fonsi"
+    },
+    {
+      "source": "x_nicky_jam",
+      "target": "te_bot__remix_nio_garcia"
+    },
+    {
+      "source": "me_niego_reik",
+      "target": "a_partir_de_hoy_david_bisbal"
+    },
+    {
+      "source": "me_niego_reik",
+      "target": "fiebre_ricky_martin"
+    },
+    {
+      "source": "me_niego_reik",
+      "target": "el_bao_enrique_iglesias"
+    },
+    {
+      "source": "me_niego_reik",
+      "target": "no_me_acuerdo_thala"
+    },
+    {
+      "source": "me_niego_reik",
+      "target": "1_2_3_feat_jason_derulo__de_la_ghetto_sofia_reyes"
+    },
+    {
+      "source": "me_niego_reik",
+      "target": "loca_feat_cali_y_el_dandee_maite_perroni"
+    },
+    {
+      "source": "me_niego_reik",
+      "target": "duele_el_corazon_enrique_iglesias"
+    },
+    {
+      "source": "me_niego_reik",
+      "target": "cuando_te_bes_becky_g"
+    },
+    {
+      "source": "me_niego_reik",
+      "target": "pa_dentro_juanes"
+    },
+    {
+      "source": "me_niego_reik",
+      "target": "amigos_con_derechos_reik"
+    },
+    {
+      "source": "me_niego_reik",
+      "target": "por_hacerme_el_bueno_bacilos"
+    },
+    {
+      "source": "me_niego_reik",
+      "target": "ya_me_enter_reik"
+    },
+    {
+      "source": "me_niego_reik",
+      "target": "ahora_te_puedes_marchar_luis_miguel"
+    },
+    {
+      "source": "chantaje_shakira",
+      "target": "felices_los_4_maluma"
+    },
+    {
+      "source": "chantaje_shakira",
+      "target": "chame_la_culpa_luis_fonsi"
+    },
+    {
+      "source": "chantaje_shakira",
+      "target": "paradinha_anitta"
+    },
+    {
+      "source": "chantaje_shakira",
+      "target": "ni_t_ni_yo_jennifer_lopez"
+    },
+    {
+      "source": "chantaje_shakira",
+      "target": "amor_amor_amor_jennifer_lopez"
+    },
+    {
+      "source": "chantaje_shakira",
+      "target": "ready_for_it_taylor_swift"
+    },
+    {
+      "source": "chantaje_shakira",
+      "target": "gasolina_daddy_yankee"
+    },
+    {
+      "source": "chantaje_shakira",
+      "target": "desde_esa_noche_thala"
+    },
+    {
+      "source": "chantaje_shakira",
+      "target": "baldin_de_gelo_claudia_leitte"
+    },
+    {
+      "source": "chantaje_shakira",
+      "target": "la_mordidita_ricky_martin"
+    },
+    {
+      "source": "chantaje_shakira",
+      "target": "danza_kuduro_don_omar"
+    },
+    {
+      "source": "chantaje_shakira",
+      "target": "como_antes_yandel"
+    },
+    {
+      "source": "chantaje_shakira",
+      "target": "encantadora_yandel"
+    },
+    {
+      "source": "hey_dj_cnco",
+      "target": "mi_medicina_cnco"
+    },
+    {
+      "source": "hey_dj_cnco",
+      "target": "el_perdn_nicky_jam"
+    },
+    {
+      "source": "hey_dj_cnco",
+      "target": "sigo_extrandote_j_balvin"
+    },
+    {
+      "source": "hey_dj_cnco",
+      "target": "despacito_featuring_daddy_yankee_luis_fonsi"
+    },
+    {
+      "source": "hey_dj_cnco",
+      "target": "pineapple_karol_g"
+    },
+    {
+      "source": "hey_dj_cnco",
+      "target": "medicina_anitta"
+    },
+    {
+      "source": "hey_dj_cnco",
+      "target": "andar_conmigo_julieta_venegas"
+    },
+    {
+      "source": "hey_dj_cnco",
+      "target": "es_tarde_juanes"
+    },
+    {
+      "source": "hey_dj_cnco",
+      "target": "amnesia_anah"
+    },
+    {
+      "source": "hey_dj_cnco",
+      "target": "a_ella_karol_g"
+    },
+    {
+      "source": "hey_dj_cnco",
+      "target": "caraluna_bacilos"
+    },
+    {
+      "source": "hey_dj_cnco",
+      "target": "limbo_daddy_yankee"
+    },
+    {
+      "source": "hey_dj_cnco",
+      "target": "me_voy_julieta_venegas"
+    },
+    {
+      "source": "criminal_natti_natasha",
+      "target": "se_prepar_ozuna"
+    },
+    {
+      "source": "criminal_natti_natasha",
+      "target": "bonita_j_balvin"
+    },
+    {
+      "source": "criminal_natti_natasha",
+      "target": "la_modelo_ozuna"
+    },
+    {
+      "source": "criminal_natti_natasha",
+      "target": "machika_j_balvin"
+    },
+    {
+      "source": "criminal_natti_natasha",
+      "target": "duro_y_suave_leslie_grace"
+    },
+    {
+      "source": "criminal_natti_natasha",
+      "target": "el_clavo_prince_royce"
+    },
+    {
+      "source": "criminal_natti_natasha",
+      "target": "reggaetn_lento_bailemos_cnco"
+    },
+    {
+      "source": "criminal_natti_natasha",
+      "target": "pem_pem_elettra_lamborghini"
+    },
+    {
+      "source": "criminal_natti_natasha",
+      "target": "todo_comienza_en_la_disco_wisin"
+    },
+    {
+      "source": "criminal_natti_natasha",
+      "target": "dganle_leslie_grace"
+    },
+    {
+      "source": "criminal_natti_natasha",
+      "target": "explcale_yandel"
+    },
+    {
+      "source": "criminal_natti_natasha",
+      "target": "vacaciones_wisin"
+    },
+    {
+      "source": "criminal_natti_natasha",
+      "target": "si_no_vuelves_gente_de_zona"
+    },
+    {
+      "source": "djala_que_vuelva_feat_manuel_turizo_piso_21",
+      "target": "la_vida_sin_ti_piso_21"
+    },
+    {
+      "source": "djala_que_vuelva_feat_manuel_turizo_piso_21",
+      "target": "sutra_sebastian_yatra"
+    },
+    {
+      "source": "djala_que_vuelva_feat_manuel_turizo_piso_21",
+      "target": "suena_el_dembow_joey_montana"
+    },
+    {
+      "source": "djala_que_vuelva_feat_manuel_turizo_piso_21",
+      "target": "por_perro_sebastian_yatra"
+    },
+    {
+      "source": "djala_que_vuelva_feat_manuel_turizo_piso_21",
+      "target": "la_player_bandolera_zion__lennox"
+    },
+    {
+      "source": "djala_que_vuelva_feat_manuel_turizo_piso_21",
+      "target": "dura__remix_daddy_yankee"
+    },
+    {
+      "source": "djala_que_vuelva_feat_manuel_turizo_piso_21",
+      "target": "move_to_miami_enrique_iglesias"
+    },
+    {
+      "source": "djala_que_vuelva_feat_manuel_turizo_piso_21",
+      "target": "atrvetetete_calle_13"
+    },
+    {
+      "source": "djala_que_vuelva_feat_manuel_turizo_piso_21",
+      "target": "escpate_conmigo_feat_ozuna_wisin"
+    },
+    {
+      "source": "djala_que_vuelva_feat_manuel_turizo_piso_21",
+      "target": "te_quiero_pami_don_omar"
+    },
+    {
+      "source": "djala_que_vuelva_feat_manuel_turizo_piso_21",
+      "target": "obsesion_aventura"
+    },
+    {
+      "source": "djala_que_vuelva_feat_manuel_turizo_piso_21",
+      "target": "la_formula_feat_chris_jeday_de_la_ghetto"
+    },
+    {
+      "source": "djala_que_vuelva_feat_manuel_turizo_piso_21",
+      "target": "mala_reykon"
+    },
+    {
+      "source": "te_amo_piso_21",
+      "target": "no_hay_nadie_ms_sebastian_yatra"
+    },
+    {
+      "source": "te_amo_piso_21",
+      "target": "zum_zum_daddy_yankee"
+    },
+    {
+      "source": "te_amo_piso_21",
+      "target": "por_pura_curiosidad_fonseca"
+    },
+    {
+      "source": "te_amo_piso_21",
+      "target": "bella_y_sensual_romeo_santos"
+    },
+    {
+      "source": "te_amo_piso_21",
+      "target": "un_poquito_diego_torres"
+    },
+    {
+      "source": "te_amo_piso_21",
+      "target": "reggaeton_ton_alexis_y_fido"
+    },
+    {
+      "source": "te_amo_piso_21",
+      "target": "usted_juan_magn"
+    },
+    {
+      "source": "te_amo_piso_21",
+      "target": "la_rompe_corazones_daddy_yankee"
+    },
+    {
+      "source": "te_amo_piso_21",
+      "target": "le_encanta_juan_magn"
+    },
+    {
+      "source": "te_amo_piso_21",
+      "target": "desde_lejos_santiago_cruz"
+    },
+    {
+      "source": "te_amo_piso_21",
+      "target": "que_lloro_sin_bandera"
+    },
+    {
+      "source": "te_amo_piso_21",
+      "target": "monalisa_alkilados"
+    },
+    {
+      "source": "te_amo_piso_21",
+      "target": "picky_joey_montana"
+    },
+    {
+      "source": "mayores_becky_g",
+      "target": "por_favor_pitbull"
+    },
+    {
+      "source": "mayores_becky_g",
+      "target": "mulher_gato_wanessa"
+    },
+    {
+      "source": "mayores_becky_g",
+      "target": "i_know_you_want_me_calle_ocho_pitbull"
+    },
+    {
+      "source": "el_amante_nicky_jam",
+      "target": "andas_en_mi_cabeza_chino__nacho"
+    },
+    {
+      "source": "el_amante_nicky_jam",
+      "target": "tranquila_j_balvin"
+    },
+    {
+      "source": "el_amante_nicky_jam",
+      "target": "a_dios_le_pido_juanes"
+    },
+    {
+      "source": "el_amante_nicky_jam",
+      "target": "con_ella_cristian_castro"
+    },
+    {
+      "source": "el_amante_nicky_jam",
+      "target": "vulveme_a_querer_cristian_castro"
+    },
+    {
+      "source": "el_amante_nicky_jam",
+      "target": "candy_plan_b"
+    },
+    {
+      "source": "el_amante_nicky_jam",
+      "target": "te_mando_flores_fonseca"
+    },
+    {
+      "source": "el_amante_nicky_jam",
+      "target": "ilusion_unplugged_en_vivo_julieta_venegas"
+    },
+    {
+      "source": "el_amante_nicky_jam",
+      "target": "bonita_cabas"
+    },
+    {
+      "source": "el_amante_nicky_jam",
+      "target": "dutty_love_don_omar"
+    },
+    {
+      "source": "el_amante_nicky_jam",
+      "target": "vali_la_pena_marc_anthony"
+    },
+    {
+      "source": "el_amante_nicky_jam",
+      "target": "vuelve_ricky_martin"
+    },
+    {
+      "source": "el_amante_nicky_jam",
+      "target": "no_te_quiero_nada_haash"
+    }
+  ]
+}
