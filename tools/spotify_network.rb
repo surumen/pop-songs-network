@@ -1,16 +1,13 @@
 #!/usr/bin/env ruby
 
-# https://github.com/youpy/ruby-lastfm/
-require 'lastfm'
+# https://github.com/obrie/spotify_web/
+require 'spotify_web'
 require 'json'
-require 'dotenv'
 
-Dotenv.load
+username = "12155831439"
+password = "moses2018"
 
-api_key = ENV['api_key']
-api_secret = ENV['api_secret']
-
-@lastfm = Lastfm.new(api_key, api_secret)
+@spotify = SpotifyWeb::Client.new(username, password)
 
 MAX_CUTTOFF = 12
 MATCH_CUTTOFF = 0.07
@@ -34,7 +31,7 @@ end
 def get_similar(old_song)
   puts old_song
   begin
-  results = @lastfm.track.get_similar(old_song["artist"], old_song["name"])
+  results = @spotify.song.similar(old_song["artist"], old_song["name"])
   rescue Exception => msg
     puts "ERROR: #{msg}"
     results = []
@@ -151,8 +148,7 @@ roots = [
   # {"name" => "Billie Jean", "artist" => "Michael Jackson", "filename" => "billie_jean.json"},
   # {"name" => "Pray For Me", "artist" => "The Weeknd", "filename" => "pray_for_me.json"},
   # {"name" => "Run the World (Girls)", "artist" => "Beyoncé", "filename" => "run_the_world.json"}
-  # {"name" => "Alright", "artist" => "Kendrick Lamar", "filename" => "alright.json"}
-  {"name" => "Formation", "artist" => "Beyoncé", "filename" => "formation.json"}
+  {"name" => "Alright", "artist" => "Kendrick Lamar", "filename" => "alright.json"}
 ]
 
 roots.each do |root|
@@ -160,5 +156,3 @@ roots.each do |root|
 
   grab(root, root["filename"])
 end
-
-

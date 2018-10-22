@@ -1,0 +1,1546 @@
+{
+  "nodes": [
+    {
+      "match": 0.976,
+      "name": "Hood Politics",
+      "artist": "Kendrick Lamar",
+      "id": "hood_politics_kendrick_lamar",
+      "playcount": 904381
+    },
+    {
+      "match": 0.327,
+      "name": "Energy",
+      "artist": "Drake",
+      "id": "energy_drake",
+      "playcount": 1259669
+    },
+    {
+      "match": 0.309,
+      "name": "6 Man",
+      "artist": "Drake",
+      "id": "6_man_drake",
+      "playcount": 509296
+    },
+    {
+      "match": 0.26,
+      "name": "Brand New Car",
+      "artist": "Action Bronson",
+      "id": "brand_new_car_action_bronson",
+      "playcount": 125057
+    },
+    {
+      "match": 0.254,
+      "name": "Baby Blue (feat. Chance The Rapper)",
+      "artist": "Action Bronson",
+      "id": "baby_blue_feat_chance_the_rapper_action_bronson",
+      "playcount": 459345
+    },
+    {
+      "match": 0.216,
+      "name": "All Your Fault (feat. Kanye West)",
+      "artist": "Big Sean",
+      "id": "all_your_fault_feat_kanye_west_big_sean",
+      "playcount": 97154
+    },
+    {
+      "match": 0.213,
+      "name": "Paradise (Extended)",
+      "artist": "Big Sean",
+      "id": "paradise_extended_big_sean",
+      "playcount": 72344
+    },
+    {
+      "match": 0.187,
+      "name": "Mono",
+      "artist": "BADBADNOTGOOD & Ghostface Killah",
+      "id": "mono_badbadnotgood__ghostface_killah",
+      "playcount": 45929
+    },
+    {
+      "match": 0.185,
+      "name": "The Power That B",
+      "artist": "Death Grips",
+      "id": "the_power_that_b_death_grips",
+      "playcount": 83802
+    },
+    {
+      "match": 0.184,
+      "name": "Stark's Reality",
+      "artist": "BADBADNOTGOOD & Ghostface Killah",
+      "id": "starks_reality_badbadnotgood__ghostface_killah",
+      "playcount": 47031
+    },
+    {
+      "match": 0.182,
+      "name": "With That",
+      "artist": "Young Thug",
+      "id": "with_that_young_thug",
+      "playcount": 103921
+    },
+    {
+      "match": 0.18,
+      "name": "All Day",
+      "artist": "Kanye West",
+      "id": "all_day_kanye_west",
+      "playcount": 604732
+    },
+    {
+      "match": 0.179,
+      "name": "Halftime",
+      "artist": "Young Thug",
+      "id": "halftime_young_thug",
+      "playcount": 207541
+    },
+    {
+      "match": 0.931,
+      "name": "Know Yourself",
+      "artist": "Drake",
+      "id": "know_yourself_drake",
+      "playcount": 1334445
+    },
+    {
+      "match": 0.374,
+      "name": "Blessings (feat. Drake)",
+      "artist": "Big Sean",
+      "id": "blessings_feat_drake_big_sean",
+      "playcount": 108782
+    },
+    {
+      "match": 0.35,
+      "name": "The Blacker the Berry",
+      "artist": "Kendrick Lamar",
+      "id": "the_blacker_the_berry_kendrick_lamar",
+      "playcount": 1209063
+    },
+    {
+      "match": 0.337,
+      "name": "Alright",
+      "artist": "Kendrick Lamar",
+      "id": "alright_kendrick_lamar",
+      "playcount": 2045639
+    },
+    {
+      "match": 0.259,
+      "name": "All Day (feat. Theophilus London, Allan Kingdom & Paul McCartney)",
+      "artist": "Kanye West",
+      "id": "all_day_feat_theophilus_london_allan_kingdom__paul_mccartney_kanye_west",
+      "playcount": 123365
+    },
+    {
+      "match": 0.233,
+      "name": "No Role Modelz",
+      "artist": "J. Cole",
+      "id": "no_role_modelz_j_cole",
+      "playcount": 1124035
+    },
+    {
+      "match": 0.221,
+      "name": "Apparently",
+      "artist": "J. Cole",
+      "id": "apparently_j_cole",
+      "playcount": 517873
+    },
+    {
+      "match": 0.189,
+      "name": "Truffle Butter (feat. Drake & Lil Wayne)",
+      "artist": "Nicki Minaj",
+      "id": "truffle_butter_feat_drake__lil_wayne_nicki_minaj",
+      "playcount": 457621
+    },
+    {
+      "match": 0.183,
+      "name": "Up Like Trump",
+      "artist": "Rae Sremmurd",
+      "id": "up_like_trump_rae_sremmurd",
+      "playcount": 124883
+    },
+    {
+      "match": 0.148,
+      "name": "Actin Crazy",
+      "artist": "Action Bronson",
+      "id": "actin_crazy_action_bronson",
+      "playcount": 262508
+    },
+    {
+      "match": 0.139,
+      "name": "Man of the Year",
+      "artist": "ScHoolboy Q",
+      "id": "man_of_the_year_schoolboy_q",
+      "playcount": 1202277
+    },
+    {
+      "match": 0.135,
+      "name": "Only (feat. Drake, Lil Wayne & Chris Brown)",
+      "artist": "Nicki Minaj",
+      "id": "only_feat_drake_lil_wayne__chris_brown_nicki_minaj",
+      "playcount": 350610
+    },
+    {
+      "match": 0.133,
+      "name": "YNO (feat. Big Sean)",
+      "artist": "Rae Sremmurd",
+      "id": "yno_feat_big_sean_rae_sremmurd",
+      "playcount": 33582
+    },
+    {
+      "match": 0.99,
+      "name": "Madonna",
+      "artist": "Drake",
+      "id": "madonna_drake",
+      "playcount": 550578
+    },
+    {
+      "match": 0.374,
+      "name": "Win Some, Lose Some",
+      "artist": "Big Sean",
+      "id": "win_some_lose_some_big_sean",
+      "playcount": 86649
+    },
+    {
+      "match": 0.22,
+      "name": "Never Had It (feat. Young Dolph)",
+      "artist": "Young Thug",
+      "id": "never_had_it_feat_young_dolph_young_thug",
+      "playcount": 114120
+    },
+    {
+      "match": 0.214,
+      "name": "Dream (feat. Yak Gotti)",
+      "artist": "Young Thug",
+      "id": "dream_feat_yak_gotti_young_thug",
+      "playcount": 114476
+    },
+    {
+      "match": 0.214,
+      "name": "Off Top",
+      "artist": "Earl Sweatshirt",
+      "id": "off_top_earl_sweatshirt",
+      "playcount": 315944
+    },
+    {
+      "match": 0.169,
+      "name": "The Rising (feat. Big Body Bes)",
+      "artist": "Action Bronson",
+      "id": "the_rising_feat_big_body_bes_action_bronson",
+      "playcount": 101389
+    },
+    {
+      "match": 0.167,
+      "name": "Okaga, Ca",
+      "artist": "Tyler, the Creator",
+      "id": "okaga_ca_tyler_the_creator",
+      "playcount": 128573
+    },
+    {
+      "match": 0.163,
+      "name": "Basement Freestyle",
+      "artist": "Travi$ Scott",
+      "id": "basement_freestyle_travi_scott",
+      "playcount": 93195
+    },
+    {
+      "match": 0.158,
+      "name": "Only In America (feat. Party Supplies)",
+      "artist": "Action Bronson",
+      "id": "only_in_america_feat_party_supplies_action_bronson",
+      "playcount": 77229
+    },
+    {
+      "match": 0.153,
+      "name": "Belly of the Beast (feat. Chronixx)",
+      "artist": "Joey Bada$$",
+      "id": "belly_of_the_beast_feat_chronixx_joey_bada",
+      "playcount": 101520
+    },
+    {
+      "match": 0.153,
+      "name": "Like Me (feat. BJ the Chicago Kid)",
+      "artist": "Joey Bada$$",
+      "id": "like_me_feat_bj_the_chicago_kid_joey_bada",
+      "playcount": 164946
+    },
+    {
+      "match": 0.134,
+      "name": "Lay Up",
+      "artist": "Future",
+      "id": "lay_up_future",
+      "playcount": 76315
+    },
+    {
+      "match": 0.12,
+      "name": "Just Like Bruddas",
+      "artist": "Future",
+      "id": "just_like_bruddas_future",
+      "playcount": 42673
+    },
+    {
+      "match": 0.867,
+      "name": "Falconry (feat. Meyhem Lauren & Big Body Bes)",
+      "artist": "Action Bronson",
+      "id": "falconry_feat_meyhem_lauren__big_body_bes_action_bronson",
+      "playcount": 92943
+    },
+    {
+      "match": 0.209,
+      "name": "Find Your Wings",
+      "artist": "Tyler, the Creator",
+      "id": "find_your_wings_tyler_the_creator",
+      "playcount": 218063
+    },
+    {
+      "match": 0.205,
+      "name": "Run",
+      "artist": "Tyler, the Creator",
+      "id": "run_tyler_the_creator",
+      "playcount": 142612
+    },
+    {
+      "match": 0.194,
+      "name": "The Helium Balloon",
+      "artist": "Wale",
+      "id": "the_helium_balloon_wale",
+      "playcount": 24339
+    },
+    {
+      "match": 0.194,
+      "name": "The Intro About Nothing",
+      "artist": "Wale",
+      "id": "the_intro_about_nothing_wale",
+      "playcount": 30824
+    },
+    {
+      "match": 0.171,
+      "name": "Outro",
+      "artist": "Big Sean",
+      "id": "outro_big_sean",
+      "playcount": 73255
+    },
+    {
+      "match": 0.158,
+      "name": "Paper Trail$",
+      "artist": "Joey Bada$$",
+      "id": "paper_trail_joey_bada",
+      "playcount": 492442
+    },
+    {
+      "match": 0.152,
+      "name": "Save the Children",
+      "artist": "Joey Bada$$",
+      "id": "save_the_children_joey_bada",
+      "playcount": 146925
+    },
+    {
+      "match": 0.126,
+      "name": "Diamonds (feat. Dana Williams)",
+      "artist": "Freddie Gibbs",
+      "id": "diamonds_feat_dana_williams_freddie_gibbs",
+      "playcount": 13642
+    },
+    {
+      "match": 0.116,
+      "name": "Fall",
+      "artist": "Lupe Fiasco",
+      "id": "fall_lupe_fiasco",
+      "playcount": 70528
+    },
+    {
+      "match": 0.113,
+      "name": "Psalm 82",
+      "artist": "Cannibal Ox",
+      "id": "psalm_82_cannibal_ox",
+      "playcount": 23512
+    },
+    {
+      "match": 0.101,
+      "name": "Dots & Lines",
+      "artist": "Lupe Fiasco",
+      "id": "dots__lines_lupe_fiasco",
+      "playcount": 127473
+    },
+    {
+      "match": 0.099,
+      "name": "This Could Be Us",
+      "artist": "Rae Sremmurd",
+      "id": "this_could_be_us_rae_sremmurd",
+      "playcount": 399931
+    },
+    {
+      "match": 0.341,
+      "name": "u",
+      "artist": "Kendrick Lamar",
+      "id": "u_kendrick_lamar",
+      "playcount": 1028115
+    },
+    {
+      "match": 0.198,
+      "name": "6PM in New York",
+      "artist": "Drake",
+      "id": "6pm_in_new_york_drake",
+      "playcount": 225730
+    },
+    {
+      "match": 0.187,
+      "name": "Constantly Hating (feat. Birdman)",
+      "artist": "Young Thug",
+      "id": "constantly_hating_feat_birdman_young_thug",
+      "playcount": 192426
+    },
+    {
+      "match": 0.154,
+      "name": "Piece of Mind",
+      "artist": "Joey Bada$$",
+      "id": "piece_of_mind_joey_bada",
+      "playcount": 168262
+    },
+    {
+      "match": 0.137,
+      "name": "Confess",
+      "artist": "Fashawn",
+      "id": "confess_fashawn",
+      "playcount": 10272
+    },
+    {
+      "match": 0.136,
+      "name": "Backyard",
+      "artist": "Travi$ Scott",
+      "id": "backyard_travi_scott",
+      "playcount": 97639
+    },
+    {
+      "match": 0.114,
+      "name": "Fire Squad",
+      "artist": "J. Cole",
+      "id": "fire_squad_j_cole",
+      "playcount": 413553
+    },
+    {
+      "match": 0.111,
+      "name": "U Mad (feat. Kanye West)",
+      "artist": "Vic Mensa",
+      "id": "u_mad_feat_kanye_west_vic_mensa",
+      "playcount": 30255
+    },
+    {
+      "match": 0.11,
+      "name": "M'$",
+      "artist": "A$AP Rocky",
+      "id": "m_aap_rocky",
+      "playcount": 310721
+    },
+    {
+      "match": 0.103,
+      "name": "Blockbuster Night Part 1",
+      "artist": "Run the Jewels",
+      "id": "blockbuster_night_part_1_run_the_jewels",
+      "playcount": 1135748
+    },
+    {
+      "match": 0.102,
+      "name": "Oh My Darling Don't Cry",
+      "artist": "Run the Jewels",
+      "id": "oh_my_darling_dont_cry_run_the_jewels",
+      "playcount": 1076488
+    },
+    {
+      "match": 0.099,
+      "name": "Come Get Her",
+      "artist": "Rae Sremmurd",
+      "id": "come_get_her_rae_sremmurd",
+      "playcount": 320808
+    },
+    {
+      "match": 0.094,
+      "name": "NaNa (ft. Action Bronson)",
+      "artist": "Chance the Rapper",
+      "id": "nana_ft_action_bronson_chance_the_rapper",
+      "playcount": 207748
+    },
+    {
+      "match": 0.945,
+      "name": "Deep (feat. Lil Wayne)",
+      "artist": "Big Sean",
+      "id": "deep_feat_lil_wayne_big_sean",
+      "playcount": 39560
+    },
+    {
+      "match": 0.527,
+      "name": "Company (feat. Travi$ Scott)",
+      "artist": "Drake",
+      "id": "company_feat_travi_scott_drake",
+      "playcount": 167252
+    },
+    {
+      "match": 0.485,
+      "name": "Used To (feat. Lil Wayne)",
+      "artist": "Drake",
+      "id": "used_to_feat_lil_wayne_drake",
+      "playcount": 158763
+    },
+    {
+      "match": 0.285,
+      "name": "Wesley's Theory (feat. George Clinton & Thundercat)",
+      "artist": "Kendrick Lamar",
+      "id": "wesleys_theory_feat_george_clinton__thundercat_kendrick_lamar",
+      "playcount": 342335
+    },
+    {
+      "match": 0.203,
+      "name": "Unlock the Swag (feat. Jace of Two-9)",
+      "artist": "Rae Sremmurd",
+      "id": "unlock_the_swag_feat_jace_of_two9_rae_sremmurd",
+      "playcount": 31034
+    },
+    {
+      "match": 0.203,
+      "name": "The Pessimist (feat. J. Cole)",
+      "artist": "Wale",
+      "id": "the_pessimist_feat_j_cole_wale",
+      "playcount": 35347
+    },
+    {
+      "match": 0.202,
+      "name": "Adoration Of The Magi Ft. Crystal Torres",
+      "artist": "Lupe Fiasco",
+      "id": "adoration_of_the_magi_ft_crystal_torres_lupe_fiasco",
+      "playcount": 19335
+    },
+    {
+      "match": 0.201,
+      "name": "The Need To Know (feat. SZA)",
+      "artist": "Wale",
+      "id": "the_need_to_know_feat_sza_wale",
+      "playcount": 69778
+    },
+    {
+      "match": 0.198,
+      "name": "Prisoner 1 & 2 Ft. Ayesha Jaco",
+      "artist": "Lupe Fiasco",
+      "id": "prisoner_1__2_ft_ayesha_jaco_lupe_fiasco",
+      "playcount": 23777
+    },
+    {
+      "match": 0.196,
+      "name": "Froze (feat. Riff Raff)",
+      "artist": "Curren$y",
+      "id": "froze_feat_riff_raff_curreny",
+      "playcount": 13545
+    },
+    {
+      "match": 0.193,
+      "name": "Can't Tell (feat. T.I. And Boosie BadAzz)",
+      "artist": "Young Thug",
+      "id": "cant_tell_feat_ti_and_boosie_badazz_young_thug",
+      "playcount": 113944
+    },
+    {
+      "match": 0.189,
+      "name": "Opening Credits",
+      "artist": "Curren$y",
+      "id": "opening_credits_curreny",
+      "playcount": 14817
+    },
+    {
+      "match": 0.179,
+      "name": "A Light In the Addict (feat. Party Supplies & Black Atlass)",
+      "artist": "Action Bronson",
+      "id": "a_light_in_the_addict_feat_party_supplies__black_atlass_action_bronson",
+      "playcount": 30647
+    },
+    {
+      "match": 0.97,
+      "name": "Stay Down",
+      "artist": "Big Sean",
+      "id": "stay_down_big_sean",
+      "playcount": 82349
+    },
+    {
+      "match": 0.179,
+      "name": "Call Ya Bluff",
+      "artist": "Ludacris",
+      "id": "call_ya_bluff_ludacris",
+      "playcount": 36092
+    },
+    {
+      "match": 0.148,
+      "name": "Get Down",
+      "artist": "Curren$y",
+      "id": "get_down_curreny",
+      "playcount": 13233
+    },
+    {
+      "match": 0.144,
+      "name": "Only One (feat. Paul McCartney)",
+      "artist": "Kanye West",
+      "id": "only_one_feat_paul_mccartney_kanye_west",
+      "playcount": 148684
+    },
+    {
+      "match": 0.122,
+      "name": "Peacoat",
+      "artist": "Future",
+      "id": "peacoat_future",
+      "playcount": 43843
+    },
+    {
+      "match": 0.107,
+      "name": "Whiskey In a Bottle",
+      "artist": "Yelawolf",
+      "id": "whiskey_in_a_bottle_yelawolf",
+      "playcount": 75708
+    },
+    {
+      "match": 0.102,
+      "name": "Change",
+      "artist": "Yelawolf",
+      "id": "change_yelawolf",
+      "playcount": 66143
+    },
+    {
+      "match": 0.1,
+      "name": "Soliloquy",
+      "artist": "Isaiah Rashad",
+      "id": "soliloquy_isaiah_rashad",
+      "playcount": 181161
+    },
+    {
+      "match": 0.084,
+      "name": "Orange Soda",
+      "artist": "Vic Mensa",
+      "id": "orange_soda_vic_mensa",
+      "playcount": 72711
+    },
+    {
+      "match": 0.076,
+      "name": "Menthol (feat. Jean Deaux)",
+      "artist": "Isaiah Rashad",
+      "id": "menthol_feat_jean_deaux_isaiah_rashad",
+      "playcount": 135898
+    },
+    {
+      "match": 0.072,
+      "name": "U Looz",
+      "artist": "PRhyme",
+      "id": "u_looz_prhyme",
+      "playcount": 42513
+    },
+    {
+      "match": 0.986,
+      "name": "Tone's Rap",
+      "artist": "BADBADNOTGOOD & Ghostface Killah",
+      "id": "tones_rap_badbadnotgood__ghostface_killah",
+      "playcount": 48026
+    },
+    {
+      "match": 0.192,
+      "name": "For Free? (interlude)",
+      "artist": "Kendrick Lamar",
+      "id": "for_free_interlude_kendrick_lamar",
+      "playcount": 443254
+    },
+    {
+      "match": 0.125,
+      "name": "The Horizon (Interlude)",
+      "artist": "Cannibal Ox",
+      "id": "the_horizon_interlude_cannibal_ox",
+      "playcount": 11302
+    },
+    {
+      "match": 0.11,
+      "name": "Winter",
+      "artist": "Lupe Fiasco",
+      "id": "winter_lupe_fiasco",
+      "playcount": 53217
+    },
+    {
+      "match": 0.103,
+      "name": "Still Running",
+      "artist": "Young Fathers",
+      "id": "still_running_young_fathers",
+      "playcount": 87000
+    },
+    {
+      "match": 0.099,
+      "name": "Feasting",
+      "artist": "Young Fathers",
+      "id": "feasting_young_fathers",
+      "playcount": 70921
+    },
+    {
+      "match": 0.082,
+      "name": "Prophetic Perfection",
+      "artist": "THEESatisfaction",
+      "id": "prophetic_perfection_theesatisfaction",
+      "playcount": 13790
+    },
+    {
+      "match": 0.078,
+      "name": "Sometimes",
+      "artist": "Heems",
+      "id": "sometimes_heems",
+      "playcount": 33418
+    },
+    {
+      "match": 0.416,
+      "name": "Black Quarterback",
+      "artist": "Death Grips",
+      "id": "black_quarterback_death_grips",
+      "playcount": 289884
+    },
+    {
+      "match": 0.126,
+      "name": "Blow My Load",
+      "artist": "Tyler, the Creator",
+      "id": "blow_my_load_tyler_the_creator",
+      "playcount": 136352
+    },
+    {
+      "match": 0.124,
+      "name": "The Brown Stains of Darkeese Latifah Part 6-12 (remix)",
+      "artist": "Tyler, the Creator",
+      "id": "the_brown_stains_of_darkeese_latifah_part_612_remix_tyler_the_creator",
+      "playcount": 145395
+    },
+    {
+      "match": 0.107,
+      "name": "Ray Gun (feat. DOOM)",
+      "artist": "BADBADNOTGOOD & Ghostface Killah",
+      "id": "ray_gun_feat_doom_badbadnotgood__ghostface_killah",
+      "playcount": 43630
+    },
+    {
+      "match": 0.105,
+      "name": "Street Knowledge (feat. Tree)",
+      "artist": "BADBADNOTGOOD & Ghostface Killah",
+      "id": "street_knowledge_feat_tree_badbadnotgood__ghostface_killah",
+      "playcount": 37545
+    },
+    {
+      "match": 0.093,
+      "name": "XXX",
+      "artist": "Danny Brown",
+      "id": "xxx_danny_brown",
+      "playcount": 492163
+    },
+    {
+      "match": 0.09,
+      "name": "Meat Grinder",
+      "artist": "Madvillain",
+      "id": "meat_grinder_madvillain",
+      "playcount": 1245865
+    },
+    {
+      "match": 0.087,
+      "name": "On Sight",
+      "artist": "Kanye West",
+      "id": "on_sight_kanye_west",
+      "playcount": 1719251
+    },
+    {
+      "match": 0.086,
+      "name": "Curls",
+      "artist": "Madvillain",
+      "id": "curls_madvillain",
+      "playcount": 1014238
+    },
+    {
+      "match": 0.085,
+      "name": "Pac Blood",
+      "artist": "Danny Brown",
+      "id": "pac_blood_danny_brown",
+      "playcount": 401316
+    },
+    {
+      "match": 0.083,
+      "name": "Black Skinhead",
+      "artist": "Kanye West",
+      "id": "black_skinhead_kanye_west",
+      "playcount": 3846255
+    },
+    {
+      "match": 0.082,
+      "name": "Work Work (Feat. Cocc Pistol Cree)",
+      "artist": "clipping.",
+      "id": "work_work_feat_cocc_pistol_cree_clipping",
+      "playcount": 95991
+    },
+    {
+      "match": 0.08,
+      "name": "Arnold Palmer",
+      "artist": "Ratking",
+      "id": "arnold_palmer_ratking",
+      "playcount": 17237
+    },
+    {
+      "match": 0.955,
+      "name": "Od",
+      "artist": "Young Thug",
+      "id": "od_young_thug",
+      "playcount": 85303
+    },
+    {
+      "match": 0.321,
+      "name": "Trap Niggas [Prod. By Southside]",
+      "artist": "Future",
+      "id": "trap_niggas_prod_by_southside_future",
+      "playcount": 14873
+    },
+    {
+      "match": 0.318,
+      "name": "March Madness [Prod. By Tarentino]",
+      "artist": "Future",
+      "id": "march_madness_prod_by_tarentino_future",
+      "playcount": 20937
+    },
+    {
+      "match": 0.196,
+      "name": "Cargo Planes",
+      "artist": "Curren$y",
+      "id": "cargo_planes_curreny",
+      "playcount": 13475
+    },
+    {
+      "match": 0.195,
+      "name": "Intro",
+      "artist": "Rich Homie Quan",
+      "id": "intro_rich_homie_quan",
+      "playcount": 2296
+    },
+    {
+      "match": 0.195,
+      "name": "Long as the Lord Say",
+      "artist": "Curren$y",
+      "id": "long_as_the_lord_say_curreny",
+      "playcount": 14118
+    },
+    {
+      "match": 0.177,
+      "name": "Givenchy",
+      "artist": "Rich Gang",
+      "id": "givenchy_rich_gang",
+      "playcount": 40716
+    },
+    {
+      "match": 0.153,
+      "name": "The One Time In Houston",
+      "artist": "Wale",
+      "id": "the_one_time_in_houston_wale",
+      "playcount": 20679
+    },
+    {
+      "match": 0.15,
+      "name": "730",
+      "artist": "Rich Gang",
+      "id": "730_rich_gang",
+      "playcount": 27218
+    },
+    {
+      "match": 0.123,
+      "name": "My X",
+      "artist": "Rae Sremmurd",
+      "id": "my_x_rae_sremmurd",
+      "playcount": 104809
+    },
+    {
+      "match": 0.123,
+      "name": "Blocka La Flame",
+      "artist": "Travi$ Scott",
+      "id": "blocka_la_flame_travi_scott",
+      "playcount": 57579
+    },
+    {
+      "match": 0.088,
+      "name": "So NY",
+      "artist": "Heems",
+      "id": "so_ny_heems",
+      "playcount": 14607
+    },
+    {
+      "match": 0.085,
+      "name": "One Time",
+      "artist": "Migos",
+      "id": "one_time_migos",
+      "playcount": 68036
+    },
+    {
+      "match": 0.822,
+      "name": "All Your Fault",
+      "artist": "Big Sean",
+      "id": "all_your_fault_big_sean",
+      "playcount": 156084
+    },
+    {
+      "match": 0.587,
+      "name": "Throw Sum Mo",
+      "artist": "Rae Sremmurd",
+      "id": "throw_sum_mo_rae_sremmurd",
+      "playcount": 304262
+    },
+    {
+      "match": 0.535,
+      "name": "Blood on the Leaves",
+      "artist": "Kanye West",
+      "id": "blood_on_the_leaves_kanye_west",
+      "playcount": 2126535
+    },
+    {
+      "match": 0.53,
+      "name": "I'm in It",
+      "artist": "Kanye West",
+      "id": "im_in_it_kanye_west",
+      "playcount": 1482896
+    },
+    {
+      "match": 0.276,
+      "name": "All My Life",
+      "artist": "Run the Jewels",
+      "id": "all_my_life_run_the_jewels",
+      "playcount": 610786
+    },
+    {
+      "match": 0.271,
+      "name": "3005",
+      "artist": "Childish Gambino",
+      "id": "3005_childish_gambino",
+      "playcount": 1132390
+    },
+    {
+      "match": 0.248,
+      "name": "Wool (feat. Vince Staples)",
+      "artist": "Earl Sweatshirt",
+      "id": "wool_feat_vince_staples_earl_sweatshirt",
+      "playcount": 99510
+    },
+    {
+      "match": 0.246,
+      "name": "The Matrimony (feat. Usher)",
+      "artist": "Wale",
+      "id": "the_matrimony_feat_usher_wale",
+      "playcount": 75075
+    },
+    {
+      "match": 0.238,
+      "name": "Ayo",
+      "artist": "Chris Brown & Tyga",
+      "id": "ayo_chris_brown__tyga",
+      "playcount": 95711
+    },
+    {
+      "match": 0.238,
+      "name": "The Girls On Drugs",
+      "artist": "Wale",
+      "id": "the_girls_on_drugs_wale",
+      "playcount": 56429
+    },
+    {
+      "match": 0.238,
+      "name": "Niggas in Paris",
+      "artist": "Jay-Z & Kanye West",
+      "id": "niggas_in_paris_jayz__kanye_west",
+      "playcount": 4181495
+    },
+    {
+      "match": 0.23,
+      "name": "DNA (feat. Na'kel)",
+      "artist": "Earl Sweatshirt",
+      "id": "dna_feat_nakel_earl_sweatshirt",
+      "playcount": 85309
+    },
+    {
+      "match": 0.23,
+      "name": "Studio",
+      "artist": "ScHoolboy Q",
+      "id": "studio_schoolboy_q",
+      "playcount": 416490
+    },
+    {
+      "match": 0.985,
+      "name": "Dome (feat. Duke)",
+      "artist": "Young Thug",
+      "id": "dome_feat_duke_young_thug",
+      "playcount": 109619
+    },
+    {
+      "match": 0.129,
+      "name": "Señorita",
+      "artist": "Vince Staples",
+      "id": "seorita_vince_staples",
+      "playcount": 365064
+    },
+    {
+      "match": 0.106,
+      "name": "Faneto",
+      "artist": "Chief Keef",
+      "id": "faneto_chief_keef",
+      "playcount": 68831
+    },
+    {
+      "match": 0.073,
+      "name": "Monster",
+      "artist": "Meek Mill",
+      "id": "monster_meek_mill",
+      "playcount": 52570
+    }
+  ],
+  "links": [
+    {
+      "source": "alright_kendrick_lamar",
+      "target": "hood_politics_kendrick_lamar"
+    },
+    {
+      "source": "alright_kendrick_lamar",
+      "target": "energy_drake"
+    },
+    {
+      "source": "alright_kendrick_lamar",
+      "target": "6_man_drake"
+    },
+    {
+      "source": "alright_kendrick_lamar",
+      "target": "brand_new_car_action_bronson"
+    },
+    {
+      "source": "alright_kendrick_lamar",
+      "target": "baby_blue_feat_chance_the_rapper_action_bronson"
+    },
+    {
+      "source": "alright_kendrick_lamar",
+      "target": "all_your_fault_feat_kanye_west_big_sean"
+    },
+    {
+      "source": "alright_kendrick_lamar",
+      "target": "paradise_extended_big_sean"
+    },
+    {
+      "source": "alright_kendrick_lamar",
+      "target": "mono_badbadnotgood__ghostface_killah"
+    },
+    {
+      "source": "alright_kendrick_lamar",
+      "target": "the_power_that_b_death_grips"
+    },
+    {
+      "source": "alright_kendrick_lamar",
+      "target": "starks_reality_badbadnotgood__ghostface_killah"
+    },
+    {
+      "source": "alright_kendrick_lamar",
+      "target": "with_that_young_thug"
+    },
+    {
+      "source": "alright_kendrick_lamar",
+      "target": "all_day_kanye_west"
+    },
+    {
+      "source": "alright_kendrick_lamar",
+      "target": "halftime_young_thug"
+    },
+    {
+      "source": "energy_drake",
+      "target": "know_yourself_drake"
+    },
+    {
+      "source": "energy_drake",
+      "target": "blessings_feat_drake_big_sean"
+    },
+    {
+      "source": "energy_drake",
+      "target": "the_blacker_the_berry_kendrick_lamar"
+    },
+    {
+      "source": "energy_drake",
+      "target": "alright_kendrick_lamar"
+    },
+    {
+      "source": "energy_drake",
+      "target": "all_day_feat_theophilus_london_allan_kingdom__paul_mccartney_kanye_west"
+    },
+    {
+      "source": "energy_drake",
+      "target": "no_role_modelz_j_cole"
+    },
+    {
+      "source": "energy_drake",
+      "target": "apparently_j_cole"
+    },
+    {
+      "source": "energy_drake",
+      "target": "truffle_butter_feat_drake__lil_wayne_nicki_minaj"
+    },
+    {
+      "source": "energy_drake",
+      "target": "up_like_trump_rae_sremmurd"
+    },
+    {
+      "source": "energy_drake",
+      "target": "actin_crazy_action_bronson"
+    },
+    {
+      "source": "energy_drake",
+      "target": "man_of_the_year_schoolboy_q"
+    },
+    {
+      "source": "energy_drake",
+      "target": "only_feat_drake_lil_wayne__chris_brown_nicki_minaj"
+    },
+    {
+      "source": "energy_drake",
+      "target": "yno_feat_big_sean_rae_sremmurd"
+    },
+    {
+      "source": "6_man_drake",
+      "target": "madonna_drake"
+    },
+    {
+      "source": "6_man_drake",
+      "target": "win_some_lose_some_big_sean"
+    },
+    {
+      "source": "6_man_drake",
+      "target": "never_had_it_feat_young_dolph_young_thug"
+    },
+    {
+      "source": "6_man_drake",
+      "target": "dream_feat_yak_gotti_young_thug"
+    },
+    {
+      "source": "6_man_drake",
+      "target": "off_top_earl_sweatshirt"
+    },
+    {
+      "source": "6_man_drake",
+      "target": "the_rising_feat_big_body_bes_action_bronson"
+    },
+    {
+      "source": "6_man_drake",
+      "target": "okaga_ca_tyler_the_creator"
+    },
+    {
+      "source": "6_man_drake",
+      "target": "basement_freestyle_travi_scott"
+    },
+    {
+      "source": "6_man_drake",
+      "target": "only_in_america_feat_party_supplies_action_bronson"
+    },
+    {
+      "source": "6_man_drake",
+      "target": "belly_of_the_beast_feat_chronixx_joey_bada"
+    },
+    {
+      "source": "6_man_drake",
+      "target": "like_me_feat_bj_the_chicago_kid_joey_bada"
+    },
+    {
+      "source": "6_man_drake",
+      "target": "lay_up_future"
+    },
+    {
+      "source": "6_man_drake",
+      "target": "just_like_bruddas_future"
+    },
+    {
+      "source": "brand_new_car_action_bronson",
+      "target": "falconry_feat_meyhem_lauren__big_body_bes_action_bronson"
+    },
+    {
+      "source": "brand_new_car_action_bronson",
+      "target": "find_your_wings_tyler_the_creator"
+    },
+    {
+      "source": "brand_new_car_action_bronson",
+      "target": "run_tyler_the_creator"
+    },
+    {
+      "source": "brand_new_car_action_bronson",
+      "target": "the_helium_balloon_wale"
+    },
+    {
+      "source": "brand_new_car_action_bronson",
+      "target": "the_intro_about_nothing_wale"
+    },
+    {
+      "source": "brand_new_car_action_bronson",
+      "target": "outro_big_sean"
+    },
+    {
+      "source": "brand_new_car_action_bronson",
+      "target": "paper_trail_joey_bada"
+    },
+    {
+      "source": "brand_new_car_action_bronson",
+      "target": "save_the_children_joey_bada"
+    },
+    {
+      "source": "brand_new_car_action_bronson",
+      "target": "diamonds_feat_dana_williams_freddie_gibbs"
+    },
+    {
+      "source": "brand_new_car_action_bronson",
+      "target": "fall_lupe_fiasco"
+    },
+    {
+      "source": "brand_new_car_action_bronson",
+      "target": "psalm_82_cannibal_ox"
+    },
+    {
+      "source": "brand_new_car_action_bronson",
+      "target": "dots__lines_lupe_fiasco"
+    },
+    {
+      "source": "brand_new_car_action_bronson",
+      "target": "this_could_be_us_rae_sremmurd"
+    },
+    {
+      "source": "baby_blue_feat_chance_the_rapper_action_bronson",
+      "target": "u_kendrick_lamar"
+    },
+    {
+      "source": "baby_blue_feat_chance_the_rapper_action_bronson",
+      "target": "6pm_in_new_york_drake"
+    },
+    {
+      "source": "baby_blue_feat_chance_the_rapper_action_bronson",
+      "target": "constantly_hating_feat_birdman_young_thug"
+    },
+    {
+      "source": "baby_blue_feat_chance_the_rapper_action_bronson",
+      "target": "piece_of_mind_joey_bada"
+    },
+    {
+      "source": "baby_blue_feat_chance_the_rapper_action_bronson",
+      "target": "confess_fashawn"
+    },
+    {
+      "source": "baby_blue_feat_chance_the_rapper_action_bronson",
+      "target": "backyard_travi_scott"
+    },
+    {
+      "source": "baby_blue_feat_chance_the_rapper_action_bronson",
+      "target": "fire_squad_j_cole"
+    },
+    {
+      "source": "baby_blue_feat_chance_the_rapper_action_bronson",
+      "target": "u_mad_feat_kanye_west_vic_mensa"
+    },
+    {
+      "source": "baby_blue_feat_chance_the_rapper_action_bronson",
+      "target": "m_aap_rocky"
+    },
+    {
+      "source": "baby_blue_feat_chance_the_rapper_action_bronson",
+      "target": "blockbuster_night_part_1_run_the_jewels"
+    },
+    {
+      "source": "baby_blue_feat_chance_the_rapper_action_bronson",
+      "target": "oh_my_darling_dont_cry_run_the_jewels"
+    },
+    {
+      "source": "baby_blue_feat_chance_the_rapper_action_bronson",
+      "target": "come_get_her_rae_sremmurd"
+    },
+    {
+      "source": "baby_blue_feat_chance_the_rapper_action_bronson",
+      "target": "nana_ft_action_bronson_chance_the_rapper"
+    },
+    {
+      "source": "all_your_fault_feat_kanye_west_big_sean",
+      "target": "deep_feat_lil_wayne_big_sean"
+    },
+    {
+      "source": "all_your_fault_feat_kanye_west_big_sean",
+      "target": "company_feat_travi_scott_drake"
+    },
+    {
+      "source": "all_your_fault_feat_kanye_west_big_sean",
+      "target": "used_to_feat_lil_wayne_drake"
+    },
+    {
+      "source": "all_your_fault_feat_kanye_west_big_sean",
+      "target": "wesleys_theory_feat_george_clinton__thundercat_kendrick_lamar"
+    },
+    {
+      "source": "all_your_fault_feat_kanye_west_big_sean",
+      "target": "unlock_the_swag_feat_jace_of_two9_rae_sremmurd"
+    },
+    {
+      "source": "all_your_fault_feat_kanye_west_big_sean",
+      "target": "the_pessimist_feat_j_cole_wale"
+    },
+    {
+      "source": "all_your_fault_feat_kanye_west_big_sean",
+      "target": "adoration_of_the_magi_ft_crystal_torres_lupe_fiasco"
+    },
+    {
+      "source": "all_your_fault_feat_kanye_west_big_sean",
+      "target": "the_need_to_know_feat_sza_wale"
+    },
+    {
+      "source": "all_your_fault_feat_kanye_west_big_sean",
+      "target": "prisoner_1__2_ft_ayesha_jaco_lupe_fiasco"
+    },
+    {
+      "source": "all_your_fault_feat_kanye_west_big_sean",
+      "target": "froze_feat_riff_raff_curreny"
+    },
+    {
+      "source": "all_your_fault_feat_kanye_west_big_sean",
+      "target": "cant_tell_feat_ti_and_boosie_badazz_young_thug"
+    },
+    {
+      "source": "all_your_fault_feat_kanye_west_big_sean",
+      "target": "opening_credits_curreny"
+    },
+    {
+      "source": "all_your_fault_feat_kanye_west_big_sean",
+      "target": "a_light_in_the_addict_feat_party_supplies__black_atlass_action_bronson"
+    },
+    {
+      "source": "paradise_extended_big_sean",
+      "target": "stay_down_big_sean"
+    },
+    {
+      "source": "paradise_extended_big_sean",
+      "target": "call_ya_bluff_ludacris"
+    },
+    {
+      "source": "paradise_extended_big_sean",
+      "target": "get_down_curreny"
+    },
+    {
+      "source": "paradise_extended_big_sean",
+      "target": "only_one_feat_paul_mccartney_kanye_west"
+    },
+    {
+      "source": "paradise_extended_big_sean",
+      "target": "peacoat_future"
+    },
+    {
+      "source": "paradise_extended_big_sean",
+      "target": "whiskey_in_a_bottle_yelawolf"
+    },
+    {
+      "source": "paradise_extended_big_sean",
+      "target": "change_yelawolf"
+    },
+    {
+      "source": "paradise_extended_big_sean",
+      "target": "soliloquy_isaiah_rashad"
+    },
+    {
+      "source": "paradise_extended_big_sean",
+      "target": "orange_soda_vic_mensa"
+    },
+    {
+      "source": "paradise_extended_big_sean",
+      "target": "menthol_feat_jean_deaux_isaiah_rashad"
+    },
+    {
+      "source": "paradise_extended_big_sean",
+      "target": "u_looz_prhyme"
+    },
+    {
+      "source": "mono_badbadnotgood__ghostface_killah",
+      "target": "tones_rap_badbadnotgood__ghostface_killah"
+    },
+    {
+      "source": "mono_badbadnotgood__ghostface_killah",
+      "target": "for_free_interlude_kendrick_lamar"
+    },
+    {
+      "source": "mono_badbadnotgood__ghostface_killah",
+      "target": "the_horizon_interlude_cannibal_ox"
+    },
+    {
+      "source": "mono_badbadnotgood__ghostface_killah",
+      "target": "winter_lupe_fiasco"
+    },
+    {
+      "source": "mono_badbadnotgood__ghostface_killah",
+      "target": "still_running_young_fathers"
+    },
+    {
+      "source": "mono_badbadnotgood__ghostface_killah",
+      "target": "feasting_young_fathers"
+    },
+    {
+      "source": "mono_badbadnotgood__ghostface_killah",
+      "target": "prophetic_perfection_theesatisfaction"
+    },
+    {
+      "source": "mono_badbadnotgood__ghostface_killah",
+      "target": "sometimes_heems"
+    },
+    {
+      "source": "the_power_that_b_death_grips",
+      "target": "black_quarterback_death_grips"
+    },
+    {
+      "source": "the_power_that_b_death_grips",
+      "target": "blow_my_load_tyler_the_creator"
+    },
+    {
+      "source": "the_power_that_b_death_grips",
+      "target": "the_brown_stains_of_darkeese_latifah_part_612_remix_tyler_the_creator"
+    },
+    {
+      "source": "the_power_that_b_death_grips",
+      "target": "ray_gun_feat_doom_badbadnotgood__ghostface_killah"
+    },
+    {
+      "source": "the_power_that_b_death_grips",
+      "target": "street_knowledge_feat_tree_badbadnotgood__ghostface_killah"
+    },
+    {
+      "source": "the_power_that_b_death_grips",
+      "target": "xxx_danny_brown"
+    },
+    {
+      "source": "the_power_that_b_death_grips",
+      "target": "meat_grinder_madvillain"
+    },
+    {
+      "source": "the_power_that_b_death_grips",
+      "target": "on_sight_kanye_west"
+    },
+    {
+      "source": "the_power_that_b_death_grips",
+      "target": "curls_madvillain"
+    },
+    {
+      "source": "the_power_that_b_death_grips",
+      "target": "pac_blood_danny_brown"
+    },
+    {
+      "source": "the_power_that_b_death_grips",
+      "target": "black_skinhead_kanye_west"
+    },
+    {
+      "source": "the_power_that_b_death_grips",
+      "target": "work_work_feat_cocc_pistol_cree_clipping"
+    },
+    {
+      "source": "the_power_that_b_death_grips",
+      "target": "arnold_palmer_ratking"
+    },
+    {
+      "source": "with_that_young_thug",
+      "target": "od_young_thug"
+    },
+    {
+      "source": "with_that_young_thug",
+      "target": "trap_niggas_prod_by_southside_future"
+    },
+    {
+      "source": "with_that_young_thug",
+      "target": "march_madness_prod_by_tarentino_future"
+    },
+    {
+      "source": "with_that_young_thug",
+      "target": "cargo_planes_curreny"
+    },
+    {
+      "source": "with_that_young_thug",
+      "target": "intro_rich_homie_quan"
+    },
+    {
+      "source": "with_that_young_thug",
+      "target": "long_as_the_lord_say_curreny"
+    },
+    {
+      "source": "with_that_young_thug",
+      "target": "givenchy_rich_gang"
+    },
+    {
+      "source": "with_that_young_thug",
+      "target": "the_one_time_in_houston_wale"
+    },
+    {
+      "source": "with_that_young_thug",
+      "target": "730_rich_gang"
+    },
+    {
+      "source": "with_that_young_thug",
+      "target": "my_x_rae_sremmurd"
+    },
+    {
+      "source": "with_that_young_thug",
+      "target": "blocka_la_flame_travi_scott"
+    },
+    {
+      "source": "with_that_young_thug",
+      "target": "so_ny_heems"
+    },
+    {
+      "source": "with_that_young_thug",
+      "target": "one_time_migos"
+    },
+    {
+      "source": "all_day_kanye_west",
+      "target": "all_your_fault_big_sean"
+    },
+    {
+      "source": "all_day_kanye_west",
+      "target": "throw_sum_mo_rae_sremmurd"
+    },
+    {
+      "source": "all_day_kanye_west",
+      "target": "blood_on_the_leaves_kanye_west"
+    },
+    {
+      "source": "all_day_kanye_west",
+      "target": "im_in_it_kanye_west"
+    },
+    {
+      "source": "all_day_kanye_west",
+      "target": "all_my_life_run_the_jewels"
+    },
+    {
+      "source": "all_day_kanye_west",
+      "target": "3005_childish_gambino"
+    },
+    {
+      "source": "all_day_kanye_west",
+      "target": "wool_feat_vince_staples_earl_sweatshirt"
+    },
+    {
+      "source": "all_day_kanye_west",
+      "target": "the_matrimony_feat_usher_wale"
+    },
+    {
+      "source": "all_day_kanye_west",
+      "target": "ayo_chris_brown__tyga"
+    },
+    {
+      "source": "all_day_kanye_west",
+      "target": "the_girls_on_drugs_wale"
+    },
+    {
+      "source": "all_day_kanye_west",
+      "target": "niggas_in_paris_jayz__kanye_west"
+    },
+    {
+      "source": "all_day_kanye_west",
+      "target": "dna_feat_nakel_earl_sweatshirt"
+    },
+    {
+      "source": "all_day_kanye_west",
+      "target": "studio_schoolboy_q"
+    },
+    {
+      "source": "halftime_young_thug",
+      "target": "dome_feat_duke_young_thug"
+    },
+    {
+      "source": "halftime_young_thug",
+      "target": "seorita_vince_staples"
+    },
+    {
+      "source": "halftime_young_thug",
+      "target": "faneto_chief_keef"
+    },
+    {
+      "source": "halftime_young_thug",
+      "target": "monster_meek_mill"
+    }
+  ]
+}

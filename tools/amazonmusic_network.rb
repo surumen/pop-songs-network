@@ -3,12 +3,9 @@
 # https://github.com/youpy/ruby-lastfm/
 require 'lastfm'
 require 'json'
-require 'dotenv'
 
-Dotenv.load
-
-api_key = ENV['api_key']
-api_secret = ENV['api_secret']
+api_key = "15fea97279fab57f688d80a0e58585cb"
+api_secret = "f300af20736de425908ec0b5f16abb2d"
 
 @lastfm = Lastfm.new(api_key, api_secret)
 
@@ -151,8 +148,7 @@ roots = [
   # {"name" => "Billie Jean", "artist" => "Michael Jackson", "filename" => "billie_jean.json"},
   # {"name" => "Pray For Me", "artist" => "The Weeknd", "filename" => "pray_for_me.json"},
   # {"name" => "Run the World (Girls)", "artist" => "Beyoncé", "filename" => "run_the_world.json"}
-  # {"name" => "Alright", "artist" => "Kendrick Lamar", "filename" => "alright.json"}
-  {"name" => "Formation", "artist" => "Beyoncé", "filename" => "formation.json"}
+  {"name" => "Alright", "artist" => "Kendrick Lamar", "filename" => "alright.json"}
 ]
 
 roots.each do |root|
@@ -160,5 +156,3 @@ roots.each do |root|
 
   grab(root, root["filename"])
 end
-
-
