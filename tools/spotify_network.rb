@@ -3,9 +3,11 @@
 # https://github.com/obrie/spotify_web/
 require 'spotify_web'
 require 'json'
+require 'dotenv'
 
-username = "12155831439"
-password = "moses2018"
+Dotenv.load
+username = ENV['spotify_username']
+password = ENV['spotify_password']
 
 @spotify = SpotifyWeb::Client.new(username, password)
 
