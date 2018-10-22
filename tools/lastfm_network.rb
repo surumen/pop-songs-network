@@ -141,7 +141,6 @@ roots = [
   {"name" => "Halo", "artist" => "Beyoncé", "filename" => "halo.json"},
   # {"name" => "Thriller", "artist"  => "Michael Jackson", "filename" => "thriller.json"},
   # {"name" => "Hotline Bling", "artist"  => "Drake", "filename" => "hotline_bling.json"},
-  # {"name" => "Ladies Night", "artist"  => "Kool and the gang", "filename" => "ladies_night.json"},
   # {"name" => "I Will Always Love You", "artist"  => "Whitney Houston", "filename" => "i_will_always_love_you.json"},
   # {"name" => "Despacito", "artist" => "Luis Fonsi", "filename" => "despacito.json"},
   # {"name" => "Apologize", "artist" => "Timbaland", "filename" => "apologize.json"},
