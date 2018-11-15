@@ -152,7 +152,8 @@ roots = [
   # {"name" => "Pray For Me", "artist" => "The Weeknd", "filename" => "pray_for_me.json"},
   # {"name" => "Run the World (Girls)", "artist" => "Beyoncé", "filename" => "run_the_world.json"}
   # {"name" => "Alright", "artist" => "Kendrick Lamar", "filename" => "alright.json"}
-  {"name" => "Formation", "artist" => "Beyoncé", "filename" => "formation.json"}
+  # {"name" => "Formation", "artist" => "Beyoncé", "filename" => "formation.json"}
+  {"name" => "Best Friend", "artist" => "SOFI Tukker", "filename" => "best_friend.json"}
 ]
 
 roots.each do |root|

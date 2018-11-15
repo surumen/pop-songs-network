@@ -101,6 +101,10 @@ RadialPlacement = () ->
 
   return placement
 
+
+
+###### ALGORITHM Part 1.b
+
 Network = () ->
   # variables we want to access
   # in multiple places of Network

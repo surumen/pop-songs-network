@@ -29,11 +29,13 @@ def id_for(song)
 end
 
 
-# Get similar songs
+
+### ALGORITHM Part 1.a
+# Define similarity in the network
 def get_similar(old_song)
   puts old_song
   begin
-  results = @spotify.song.similar(old_song["artist"], old_song["name"])
+  results = @spotify.track.similar(old_song["artist"], old_song["name"])
   rescue Exception => msg
     puts "ERROR: #{msg}"
     results = []
